@@ -2,6 +2,10 @@
 Je déclare qu'il s'agit de mon propre travail.
 Ce travail a été réalisé intégralement par un être humain. */
 
+/*Note :
+le code a été écrit à l'aide de modèles dans Moodle, 
+en complément du code existant.*/
+
 #ifndef LIST_H
 #define LIST_H value
 #include <stdlib.h>
